@@ -1,4 +1,4 @@
-📚 Projeto Flask - Cadastro de Livros e Listagem de Filmes
+# Projeto Flask - Cadastro de Livros e Listagem de Filmes
 
 Sistema web desenvolvido com Python e Flask com o objetivo de proporcionar uma experiência prática de aprendizado sobre os fundamentos do desenvolvimento web com foco em roteamento, templates com Jinja2, integração com banco de dados utilizando SQLAlchemy e consumo de APIs externas.
 O sistema permite ao usuário realizar o cadastro de livros com nome, descrição e valor, armazenando os dados em um banco SQLite. Além disso, oferece uma interface para consultar filmes por categoria (populares, animações e lançamentos de 2010), utilizando a API pública do TMDB (The Movie Database).

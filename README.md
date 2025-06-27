@@ -41,3 +41,39 @@ Consulta à API do TMDB para exibir filmes:
 - Populares
 - Animações
 - Filmes lançados em 2010
+
+# Como executar localmente
+
+Pré-requisitos: 
+
+Antes de tudo, você precisa ter instalado no seu computador:
+
+- Python 3.10+
+- pip (gerenciador de pacotes do Python — normalmente já vem com o Python)
+- Um editor de código, como VS Code
+
+Para verificar se você já tem Python e pip instalados, use:
+```
+python --version
+pip --version
+```
+
+1- Clone o repositório:
+```
+https://github.com/zMaurici0/App_Flask.git
+```
+2- Crie e ative um ambiente virtual (opcional, mas recomendado):
+```
+python -m venv venv
+venv\Scripts\activate  # No Windows
+```
+3- Instale as dependências:
+```
+pip install -r requirements.txt
+```
+4- Execute a aplicação:
+```
+flask --app projeto --debug run
+```
+
+

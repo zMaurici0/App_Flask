@@ -65,7 +65,7 @@ https://github.com/zMaurici0/App_Flask.git
 2- Crie e ative um ambiente virtual (opcional, mas recomendado):
 ```
 python -m venv venv
-venv\Scripts\activate  # No Windows
+venv\Scripts\activate  (No Windows)
 ```
 3- Instale as dependências:
 ```

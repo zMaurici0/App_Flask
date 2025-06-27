@@ -33,7 +33,6 @@ Formulário simples para inserir:
 - Nome do livro
 - Descrição
 - Valor
-- Dados armazenados via SQLAlchemy no banco livros.sqlite3.
 
 🎥 Consulta de Filmes
 Consulta à API do TMDB para exibir filmes:

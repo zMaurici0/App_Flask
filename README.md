@@ -5,24 +5,27 @@ O sistema permite ao usuário realizar o cadastro de livros com nome, descriçã
 Este projeto foi desenvolvido com fins educacionais, como uma forma de praticar conceitos essenciais do ecossistema Flask, incluindo criação de rotas, manipulação de formulários, persistência de dados e integração com serviços externos via requisições HTTP.
 
 # Tecnologias Utilizadas
-*Python 3.x
-*Flask
-*Flask SQLAlchemy
-*SQLite
-*HTML (com Jinja2)
-*API TMDB (para dados de filmes)
+
+- Python 3.x
+- Flask
+- Flask SQLAlchemy
+- SQLite
+- HTML (com Jinja2)
+- API TMDB (para dados de filmes)
 
 # Funcionalidades
 
 ✅ Cadastro de Livros
 Formulário simples para inserir:
-*Nome do livro
-*Descrição
-*Valor
-*Dados armazenados via SQLAlchemy no banco livros.sqlite3.
+
+- Nome do livro
+- Descrição
+- Valor
+- Dados armazenados via SQLAlchemy no banco livros.sqlite3.
 
 🎥 Consulta de Filmes
 Consulta à API do TMDB para exibir filmes:
-*Populares
-*Animações
-*Filmes lançados em 2010
+
+-Populares
+-Animações
+-Filmes lançados em 2010
